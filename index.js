@@ -5,8 +5,5 @@ const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
-const shortGreeting = `Welcome,  ${currentUser}!`;
+const shortGreeting = `Welcome,  ${currentUser.slice(0, 1)}!`;
 
-'Claire'[0];
-
-'Claire'.charAt(0);
