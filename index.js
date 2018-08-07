@@ -3,7 +3,5 @@ const currentUser = 'Claire';
  
 const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!';
 
-const shortGreeting = ... ;
- 
-shortGreeting;
+
 
