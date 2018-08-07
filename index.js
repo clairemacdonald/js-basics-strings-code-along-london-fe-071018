@@ -7,4 +7,6 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const shortGreeting = `Welcome,  ${currentUser}!`;
 
-'claire'.charAt(0);
+'Claire'[0];
+
+'Claire'.charAt(0);
